@@ -9,6 +9,7 @@ The code is devided by sections
   - Feature Extraction of Audio Files
   - Machine learning model training (currently using kNN)
   - Evaluation of features and model and re-training
+
 The code is made in a way that only certain sections of it can be used
 
 ## TO-DO List
