@@ -4,6 +4,12 @@ This is a project that I started for my undergraduate coursework that I am activ
 
 ## What is the project?
 
+The goal of this project was initially a way to identify the sound of a guitar pickup and categorize it so the buyer can find something that is matching the tone they want. Even though guitar pickups have a much smaller effect on the timbre compared to the rest of the electronics in a guitar, it is something that can help the buyer make a more informed decision with more information. 
+
+What is lacking from this project is a proper dataset which, if someone was to use the same electronics and setup, and properly record sound files with only the pickup as a variable, it woul help the evaluation of the impact of pickups in the sound profile of the electric guitar. 
+
+## What does the code consist of?
+
 The code is devided by sections:
   - File Import
   - Feature Extraction of Audio Files
@@ -11,12 +17,6 @@ The code is devided by sections:
   - Evaluation of features and model and re-training
 
 The code is made in a way that only certain sections of it can be used. Read the TO-DO list for more information.
-
-# How can I use the code?
-
-The goal of this project was initially a way to identify the sound of a guitar pickup and categorize it so the buyer can find something that is matching the tone they want. Even though guitar pickups have a much smaller effect on the timbre compared to the rest of the electronics in a guitar, it is something that can help the buyer make a more informed decision with more information. 
-
-What is lacking from this project is a proper dataset which, if someone was to use the same electronics and setup, and properly record sound files with only the pickup as a variable, it woul help the evaluation of the impact of pickups in the sound profile of the electric guitar. 
 
 ## TO-DO List:
   - Make functions for repeating sections
